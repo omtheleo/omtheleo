@@ -1,0 +1,35 @@
+<html>
+ <head>
+   <title>computer Books</title>
+ </head>
+ <body>
+ <h1 align="center" bgcolor="#1aff1a">Computer Books</h1>
+ <table border="1"  cellpadding="10" align="center">
+ <tr><th>COVER PAGE</th>
+ <th>BOOK DETAILS</th>
+ <th>PRICE</th>
+ <th>REMARK</th>
+ </tr>
+ <tr>
+<td><img src="c.jpg" height="100" width="200"></td>
+<td>Book : C programming<br>Author : A.kamthen</td>
+<td>INR <br>400.00</td>
+<td><a href="cart.html">Add to cart</a></td></tr>
+<tr>
+<td><img src="cpp.jpg" height="100" width="200"></td>
+<td>Book : C++ <br>Author : balaguruswami</td>
+<td>INR <br>350.00</td>
+<td><a href="cart.html">Add to cart</a></td></tr>
+<tr>
+<td><img src="java.jpg" height="100" width="200"></td>
+<td>Book : java<br>Author : Herbert schildt</td>
+<td>INR <br>540.00</td>
+<td><a href="cart.html">Add to cart</a></td></tr>
+<tr>
+<td><img src="wp1.jpg" height="100" width="200"></td>
+<td>Book : W.T<br>Author : black book</td>
+<td>INR <br>555.00</td>
+<td><a href="cart.html">Add to cart</a></td></tr>
+</table>
+</body>
+</html>
