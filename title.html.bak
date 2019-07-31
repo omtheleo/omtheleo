@@ -1,0 +1,10 @@
+<html>
+ <head>
+    <title>title page</title>
+ </head>
+ <body bgcolor="orange">
+ <img src="logo.jpg"width="100" height="50" align="center" hspace="20">
+<marquee width="800" behavior="alternate"><h3>SVEC ONLINE BOOK STORE</h3></marquee>
+  
+ </body>
+</html>
